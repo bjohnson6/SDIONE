@@ -6,4 +6,4 @@
 alert("Planning my trip to Washington D.C.");
 
 
-var= 
+console.log("hello world");
