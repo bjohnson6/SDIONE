@@ -56,7 +56,7 @@ console.log ("First we need to make sure that my little girl " + daughter + " is
        };
 
      //Initial output
-       console.log("We are looking forward to eating yummy food there and buying souvinears for " + myGirls.);
+       console.log("We are looking forward to eating yummy food there and buying souvinears for "  + myGirls+".");
         
        console.log("I guess I better check and make sure we have enough money to take!");
 
