@@ -15,6 +15,7 @@ var    readyToLeave = true ;
 var        emmaCare = true;
 var      mookieCare = false;
 var         myGirls = "Kylee and Emma";
+var             see = "historical sites, city"
 
 //Initial output
 console.log ("We are planning for our trip to " + place);
@@ -79,5 +80,9 @@ console.log ("First we need to make sure that my little girl " + daughter + " is
          	}else{
          		console.log("no, looks like I missed something, darn.");
          };
+         
+        //Initial output
+          console.log("I am getting so excited, I can't wait to go visit " + place + " and explore the " + see + " and just sit back and relax." );
+
 
 
