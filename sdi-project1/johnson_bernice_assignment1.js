@@ -31,6 +31,28 @@ console.log ("First we need to make sure that my little girl " + daughter + " is
 
 
   };
+ //Initial output
+   console.log("Next we need to figure out if our little pooch " + dog + " will be going with us.");
 
-  //Initial output
-  console.log("Next we need to figure out if our little pooch " + dog + " will be going with us.");
+ //mookieCare conditional. Will he be going with us?
+   if (mookieCare===false){
+       console.log("Looks like he will be staying with a friend, we will miss him.");
+
+     }else{
+     	console.log("yes, he is coming along.");
+
+
+   };
+
+   //Initial output 
+     console.log("Now we can focus on if we are still taking the train or car to get there."); 
+
+     //train conditional. Are we still taking the train as we wanted to?
+       if (train===true){
+           console.log("Yay! We are taking the train, it will be nice and relaxing.");
+
+       }else{
+       	  console.log("We have to take the car because our " + dog + "is coming along.");
+       };
+
+
