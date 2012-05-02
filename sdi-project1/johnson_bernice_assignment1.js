@@ -68,4 +68,16 @@ console.log ("First we need to make sure that my little girl " + daughter + " is
        	 	console.log("Looks like I better hurry up and keep saving!");
        };
 
+       //Initial output
+         console.log ("I am going to check over everything important one last time and make sure we are all ready for our trip.");
+         	          
+       
+       //readyToLeave conditional. Is everything taken care of?
+         if (readyToLeave === true){
+         	 console.log("Yes! everything is decided now and we can look forward to our trip in 3 weeks!");
+
+         	}else{
+         		console.log("no, looks like I missed something, darn.");
+         };
+
 
