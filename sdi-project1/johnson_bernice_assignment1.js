@@ -14,7 +14,7 @@ var           train = true ;
 var    readyToLeave = true ;
 var        emmaCare = true;
 var      mookieCare = false;
-
+var         myGirls = "Kylee and Emma";
 
 //Initial output
 console.log ("We are planning for our trip to " + place);
@@ -54,5 +54,10 @@ console.log ("First we need to make sure that my little girl " + daughter + " is
        }else{
        	  console.log("We have to take the car because our " + dog + "is coming along.");
        };
+
+     //Initial output
+       console.log("We are looking forward to eating yummy food there and buying souvinears for " + myGirls.);
+        
+       console.log("I guess I better check and make sure we have enough money to take!");
 
 
