@@ -60,4 +60,12 @@ console.log ("First we need to make sure that my little girl " + daughter + " is
         
        console.log("I guess I better check and make sure we have enough money to take!");
 
+     //money conditional. Do we have enough money to take?
+       if (money===200){
+       	   console.log("Yay, we have enough to take and have fun!");
+
+       	 }else{
+       	 	console.log("Looks like I better hurry up and keep saving!");
+       };
+
 
